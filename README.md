@@ -7,7 +7,7 @@
  #####   - Tutor: Pablo Perez y Esteban Hirzfeld
 
  Website:  
-[Mira acá mi página](hibeginning.netlify.app) 
+[Mira acá mi página](https://hibeginning.netlify.app/) 
 
  ⋆ Diseño responsivo:
    - Smartphone
