@@ -3,11 +3,11 @@
  ## ★ Proyecto: Beginning
  ####  Este proyecto forma parte del curso Desarrollo Web, dictado por Coderhouse.
 
- #####   - Profesor: 
- #####   - Tutor: 
+ #####   - Profesor: Emanuel Cabral
+ #####   - Tutor: Pablo Perez y Esteban Hirzfeld
 
  Website:  
-[Mira acá mi página]() 
+[Mira acá mi página](hibeginning.netlify.app) 
 
  ⋆ Diseño responsivo:
    - Smartphone
